@@ -2,4 +2,4 @@
 
 ### [Certificate:](https://jovian.com/certificate/MFQTQNZRGE)
 
-![Certificate](Certificate/certificate.PNG)
+![Certificate](Certificate/DataStructures.PNG)
